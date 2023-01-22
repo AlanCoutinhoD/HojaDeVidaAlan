@@ -1,0 +1,45 @@
+.contenedor{
+   
+    position: absolute;
+    width: 29%;
+    height: 1%;
+    left: 55%;
+    top: 29%;
+    margin: 0%;
+   display:flex;
+ 
+flex-wrap: wrap;
+
+ 
+  
+}
+.titulos{
+    width: 45%;
+    background: #000000;
+    font-family: 'Roboto';
+font-style: normal;
+font-size: 80%;
+line-height: 150%;
+text-align: center;
+margin: 15%;
+color: #FFFFFF;
+
+}
+.parrafo{
+   height: 1100%;
+    font-family: 'Roboto';
+font-style: normal;
+font-size: 30%;
+text-align: left;
+ width: 50%;
+color: #918b8b;
+
+
+}
+.imagenes{
+
+ width: 30%; 
+ 
+/* background: url("../img/whats.png"); */
+}
+

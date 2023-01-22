@@ -1,0 +1,66 @@
+.contenedorHabilidades{
+    position: absolute;
+    width: 40%;
+    height: 1%;
+    left: 55%;
+    top: 69%;
+    margin: 0%;
+   display:flex;
+   
+   flex-wrap: wrap;
+}
+.lenguajes{
+    
+    font-family: 'Roboto';
+font-style: normal;
+font-size: 50%;
+text-align: left;
+ width: 30%;
+color: #918b8b;
+
+}
+.barra1{
+  margin-top: 5%;
+  margin-right: 35%;
+    width: 15%;
+    height: 150%;
+    
+    background-color: #000000;
+
+}
+.barra2{
+    margin-top: 5%;
+    margin-right: 35%;
+      width: 27%;
+      height: 150%;
+      
+      background-color: #000000;
+  
+  }
+  .barra3{
+    margin-top: 5%;
+    margin-right: 35%;
+      width: 30%;
+      height: 150%;
+      
+      background-color: #000000;
+  
+  }
+  .barra4{
+    margin-top: 5%;
+    margin-right: 35%;
+      width: 10%;
+      height: 150%;
+      
+      background-color: #000000;
+  
+  }
+  .barra5{
+    margin-top: 5%;
+    margin-right: 35%;
+      width: 29%;
+      height: 150%;
+      
+      background-color: #000000;
+  
+  }
